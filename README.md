@@ -44,6 +44,14 @@ How It Works
 5. Results are displayed with distance and ETA
 
 ---
+
+ETA Prediction Web App, Live Demo :
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+(https://jmgnzzr79bpvh8p4htgpzb.streamlit.app)
+
+---
+
 ## Author
 
 Shravan Kumar Gogi
