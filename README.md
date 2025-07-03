@@ -44,3 +44,6 @@ How It Works
 5. Results are displayed with distance and ETA
 
 ---
+## Author
+
+Shravan Kumar Gogi
