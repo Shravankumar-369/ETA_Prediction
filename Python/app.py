@@ -19,7 +19,8 @@ with open("eta_model.pkl", "rb") as f:
 
 
 geolocator = Nominatim(user_agent="eta_app_bangalore", timeout=5)
-client = openrouteservice.Client(key="Enter api key")  # Free tier key
+api_key = st.secrets["ORS_API_KEY"]
+client = openrouteservice.Client(key=api_key)  
 
 
 def geocode_place(place, retries=3, delay=2):
